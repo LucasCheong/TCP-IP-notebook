@@ -15,3 +15,8 @@ Initializer 'init(_:)' requires that 'Measurement<Unit>' conform to 'StringProto
 
 /Users/lucas/Documents/FinanceApp/FinanceApp/Services/OCRService.swift:37:42 Capture of 'request' with non-Sendable type 'VNRecognizeTextRequest' in a '@Sendable' closure
 
+/Users/lucas/Documents/FinanceApp/FinanceApp/Views/InvoiceImportView.swift:260:84 Inferred projection type 'ParsedInvoiceData' is not a property wrapper
+
+/Users/lucas/Documents/FinanceApp/FinanceApp/Views/InvoiceImportView.swift:261:65 Cannot convert value of type 'ParsedInvoiceData' to expected argument type 'Binding<ParsedInvoiceData>'
+
+/Users/lucas/Documents/FinanceApp/FinanceApp/Services/StockService.swift:53:27 Reference to captured var 'results' in concurrently-executing code; this is an error in the Swift 6 language mode
