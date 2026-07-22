@@ -17,6 +17,15 @@ Initializer 'init(_:)' requires that 'Measurement<Unit>' conform to 'StringProto
 
 /Users/lucas/Documents/FinanceApp/FinanceApp/Views/InvoiceImportView.swift:260:84 Inferred projection type 'ParsedInvoiceData' is not a property wrapper
 
+
+no rule to process file '/Users/lucas/Library/Developer/Xcode/DerivedData/FinanceApp-desyamjamgtczqdemeirrrootolu/Build/Products/Debug-iphonesimulator/FinanceApp.app' of type 'wrapper.application' for architecture 'arm64'
+
+
 /Users/lucas/Documents/FinanceApp/FinanceApp/Views/InvoiceImportView.swift:261:65 Cannot convert value of type 'ParsedInvoiceData' to expected argument type 'Binding<ParsedInvoiceData>'
 
 /Users/lucas/Documents/FinanceApp/FinanceApp/Services/StockService.swift:53:27 Reference to captured var 'results' in concurrently-executing code; this is an error in the Swift 6 language mode
+
+no rule to process file '/Users/lucas/Library/Developer/Xcode/DerivedData/FinanceApp-desyamjamgtczqdemeirrrootolu/Build/Products/Debug-iphonesimulator/FinanceApp.app' of type 'wrapper.application' for architecture 'arm64'
+
+/Users/lucas/Documents/FinanceApp/FinanceApp/FinanceAppApp.swift:9:9 Cannot find 'NotificationManager' in scope
+
