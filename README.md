@@ -19,5 +19,4 @@ This is a guidebook for anyone who tries to get familiar with Basic Network Know
 
 /Users/lucas/Documents/FinanceApp/FinanceApp/Views/AlertCenterView.swift:270:18 'foregroundStyle' is only available in iOS 17.0 or newer
 
-Task 1: "Attempt to insert non-property list object {\n    \"FinanceApp.Currency.sgd\" = \"0.163353\";\n    \"FinanceApp.Currency.hkd\" = \"1.0\";\n    \"FinanceApp.Currency.usd\" = \"0.127486\";\n    \"FinanceApp.Currency.gbp\" = \"0.094661\";\n    \"FinanceApp.Currency.aud\" = \"0.180732\";\n    \"FinanceApp.Currency.cny\" = \"0.862131\";\n    \"FinanceApp.Currency.eur\" = \"0.110372\";\n    \"FinanceApp.Currency.cad\" = \"0.178808\";\n    \"FinanceApp.Currency.twd\" = \"4.116341\";\n    \"FinanceApp.Currency.jpy\" = \"20.092087\";\n} for key exchangeRatesCache"
-
+/Users/lucas/Documents/FinanceApp/FinanceWidget/FinanceWidget.swift:20:48 Static member 'appGroupId' cannot be used on instance of type 'FinanceWidgetProvider'
