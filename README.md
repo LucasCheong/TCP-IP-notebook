@@ -13,5 +13,12 @@ This is a guidebook for anyone who tries to get familiar with Basic Network Know
 
 /Users/lucas/Documents/FinanceApp/FinanceApp/Views/MarketDashboardView.swift:444:17 Switch must be exhaustive
 
+/Users/lucas/Documents/FinanceApp/FinanceApp/Views/AssetAllocationView.swift:125:21 'SectorMark' is only available in iOS 17.0 or newer
+
+/Users/lucas/Documents/FinanceApp/FinanceApp/Views/AssetAllocationView.swift:130:22 Conformance of 'SectorMark' to 'ChartContent' is only available in iOS 17.0 or newer; this is an error in the Swift 6 language mode
+
+/Users/lucas/Documents/FinanceApp/FinanceApp/Views/AlertCenterView.swift:270:18 'foregroundStyle' is only available in iOS 17.0 or newer
+
+
 
 
